@@ -1,0 +1,13 @@
+{
+  "name": "cypress-scraper-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cypress": "^12.4.0"
+  },
+  "scripts": {
+    "start": "cypress run",
+    "open": "cypress open"
+  }
+}
